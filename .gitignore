@@ -8,3 +8,4 @@ output_csvs/
 data/
 .mypy_cache/
 .ruff_cache
+*.png
